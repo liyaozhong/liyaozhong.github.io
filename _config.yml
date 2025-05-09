@@ -78,7 +78,7 @@ share-links-active:
 title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 200
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -251,7 +251,7 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
-      path: "_cycling" # 匹配_cycling目录下的文件
+      path: "_cycling" # 直接匹配 _cycling 目录下的文件
     values:
       layout: "post"
       comments: false
@@ -277,4 +277,9 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+# Collections
+collections:
+  cycling:
+    output: true
 

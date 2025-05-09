@@ -36,3 +36,6 @@ vendor/
 
 # 日志文件
 *.log 
+
+# 依赖锁文件
+Gemfile.lock
