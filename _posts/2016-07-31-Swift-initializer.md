@@ -2,7 +2,7 @@
 layout: post
 title: "Swift initializer"
 subtitle: "Swift构造器详解"
-tags: [Swift, Initializer]
+tags: [Swift]
 comments: false
 ---
 

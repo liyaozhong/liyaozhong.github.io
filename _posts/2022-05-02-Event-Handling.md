@@ -2,7 +2,7 @@
 layout: post
 title: "Event Handling"
 subtitle: "iOS事件处理机制详解"
-tags: [iOS, Event Handling, Touch Events]
+tags: [iOS]
 comments: false
 ---
 

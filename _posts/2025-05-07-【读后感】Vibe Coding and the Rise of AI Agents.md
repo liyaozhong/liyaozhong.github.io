@@ -2,7 +2,7 @@
 layout: post
 title: "【读后感】Vibe Coding and the Rise of AI Agents"
 subtitle: "核心技能：沟通、协调、逻辑思维和任务分解"
-tags: [Reading]
+tags: [Reading, Vibe Coding]
 comments: false
 ---
 [原文](https://thedataexchange.media/vibe-coding-chop-steve-yegge/)

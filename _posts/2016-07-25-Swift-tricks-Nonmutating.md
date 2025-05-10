@@ -2,7 +2,7 @@
 layout: post
 title: "Swift tricks-Nonmutating"
 subtitle: "Swift中的非可变方法修饰符"
-tags: [Swift, Nonmutating]
+tags: [Swift]
 comments: false
 ---
 

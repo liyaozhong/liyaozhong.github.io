@@ -2,7 +2,7 @@
 layout: post
 title: "深入分析ContentProvider"
 subtitle: "Android跨进程数据访问的实现原理"
-tags: [Android, ContentProvider, IPC, 源码分析]
+tags: [Android, IPC, 源码分析]
 comments: false
 ---
 

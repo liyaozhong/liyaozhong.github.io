@@ -2,7 +2,7 @@
 layout: post
 title: "趁热来一波，WWDC 2016 iMessage App开发"
 subtitle: "iOS 10新消息应用开发指南"
-tags: [iOS, iMessage, WWDC]
+tags: [iOS]
 comments: false
 ---
 

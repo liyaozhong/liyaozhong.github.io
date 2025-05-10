@@ -2,7 +2,7 @@
 layout: post
 title: "iOS UIScrollView一个容易忽略的细节"
 subtitle: "UIScrollView与系统右滑手势冲突解决方案"
-tags: [iOS, UIScrollView, 手势冲突]
+tags: [iOS, UI]
 comments: false
 ---
 

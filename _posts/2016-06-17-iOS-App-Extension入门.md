@@ -2,7 +2,7 @@
 layout: post
 title: "iOS App Extension入门"
 subtitle: "iOS 10新功能背后的技术基础"
-tags: [iOS, App Extension]
+tags: [iOS]
 comments: false
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Chain of Thought V.S. Tree of Thoughts"
 subtitle: "深度学习推理中的Chain of Thought (CoT)与Tree of Thoughts (ToT)：理论与应用"
-tags: [LLM, CoT, ToT]
+tags: [LLM, Prompt Engineering]
 comments: false
 ---
 

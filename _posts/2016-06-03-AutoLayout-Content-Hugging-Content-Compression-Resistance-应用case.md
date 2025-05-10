@@ -2,7 +2,7 @@
 layout: post
 title: "[AutoLayout] Content Hugging & Content Compression Resistance 应用case"
 subtitle: "iOS AutoLayout中两个优先级属性的实际应用"
-tags: [iOS, AutoLayout, UI]
+tags: [iOS, UI]
 comments: false
 ---
 

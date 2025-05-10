@@ -4,7 +4,7 @@ title: "PPO,GRPO,DPO"
 subtitle: "PPO通过限制调整次数来确保结果不会偏离上次结果太多（稳定进步）
 GRPO是PPO的扩展，没有价值函数，通过对比组内平均成绩来提高
 DPO不打分，没有奖励模型，直接根据偏好数据调整"
-tags: [LLM, PPO, GRPO, DPO, RL]
+tags: [LLM, Fine Tune, RL]
 comments: false
 ---
 

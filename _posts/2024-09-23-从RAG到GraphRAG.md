@@ -2,7 +2,7 @@
 layout: post
 title: "从RAG到GraphRAG"
 subtitle: "深入探索 RAG 与 GraphRAG：从基础原理到前沿实践的演进"
-tags: [LLM, RAG, GraphRAG]
+tags: [LLM, RAG]
 comments: false
 ---
 

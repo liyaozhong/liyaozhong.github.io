@@ -2,7 +2,7 @@
 layout: post
 title: "Delegate and Event"
 subtitle: "C#委托与事件详解"
-tags: [C#, Delegate, Event, Design Pattern]
+tags: [C#]
 comments: false
 ---
 

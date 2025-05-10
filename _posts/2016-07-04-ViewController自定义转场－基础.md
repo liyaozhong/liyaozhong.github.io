@@ -2,7 +2,7 @@
 layout: post
 title: "ViewController自定义转场－基础"
 subtitle: "iOS7新特性详解"
-tags: [iOS, ViewController, Transition, Animation]
+tags: [iOS]
 comments: false
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: iOS Remote Notification问题小结
 subtitle: 个推SDK使用过程中的常见问题及解决方案
-tags: [iOS, Push, 个推, Remote Notification]
+tags: [iOS]
 comments: false
 ---
 

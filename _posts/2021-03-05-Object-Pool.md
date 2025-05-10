@@ -2,7 +2,7 @@
 layout: post
 title: "Object Pool"
 subtitle: "C#对象池技术详解"
-tags: [C#, Object Pool, Performance]
+tags: [C#, Performance]
 comments: false
 ---
 

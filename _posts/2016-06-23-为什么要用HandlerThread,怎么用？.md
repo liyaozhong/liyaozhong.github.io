@@ -2,7 +2,7 @@
 layout: post
 title: "为什么要用HandlerThread,怎么用？"
 subtitle: "Android异步线程处理的最佳实践"
-tags: [Android, Handler, HandlerThread, Looper]
+tags: [Android]
 comments: false
 ---
 

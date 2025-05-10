@@ -3,7 +3,7 @@ layout: post
 title: "【读】Multi-Agent Orchestration"
 subtitle: "The orchestrator must handle the complexity of large-scale operations without introducing bottlenecks.
 Efficient task distribution, load balancing, and resource allocation become key factors."
-tags: [Reading]
+tags: [Reading, Multi Agent]
 comments: false
 ---
 [原文](https://substack.com/home/post/p-162328918)

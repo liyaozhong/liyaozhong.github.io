@@ -2,7 +2,7 @@
 layout: post
 title: "iOS中的Block , Stack, Heap"
 subtitle: "iOS内存管理机制详解"
-tags: [iOS, Block, Stack, Heap, Memory]
+tags: [iOS, Memory]
 comments: false
 ---
 

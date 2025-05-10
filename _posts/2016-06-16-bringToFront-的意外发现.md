@@ -2,7 +2,7 @@
 layout: post
 title: "bringToFront 的意外发现"
 subtitle: "Android View层级管理中的隐藏细节"
-tags: [Android, View, 动画, 源码分析]
+tags: [Android, 源码分析]
 comments: false
 ---
 

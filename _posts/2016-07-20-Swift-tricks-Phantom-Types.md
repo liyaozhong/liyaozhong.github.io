@@ -2,7 +2,7 @@
 layout: post
 title: "Swift tricks-Phantom Types"
 subtitle: "Swift中的类型安全编程技巧"
-tags: [Swift, Phantom Types]
+tags: [Swift]
 comments: false
 ---
 

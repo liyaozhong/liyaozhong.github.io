@@ -2,7 +2,7 @@
 layout: post
 title: "Swift tricks-Enum Associated Value & Raw Value"
 subtitle: "Swift枚举的高级特性"
-tags: [Swift, Enum]
+tags: [Swift]
 comments: false
 ---
 

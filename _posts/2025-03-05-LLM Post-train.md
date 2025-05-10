@@ -2,7 +2,7 @@
 layout: post
 title: "LLM Post-train"
 subtitle: "https://arxiv.org/abs/2502.21321"
-tags: [LLM, Post Train]
+tags: [LLM]
 comments: false
 ---
 

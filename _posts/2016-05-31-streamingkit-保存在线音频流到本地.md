@@ -2,7 +2,7 @@
 layout: post
 title: StreamingKit保存在线音频流到本地
 subtitle: 如何修改StreamingKit实现音频缓存功能
-tags: [iOS, 音频处理, StreamingKit, 缓存]
+tags: [iOS]
 comments: false
 gh-repo: liyaozhong/StreamingKit
 ---

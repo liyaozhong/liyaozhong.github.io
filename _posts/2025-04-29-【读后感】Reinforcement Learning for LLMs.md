@@ -2,7 +2,7 @@
 layout: post
 title: "【读后感】Reinforcement Learning for LLMs"
 subtitle: "让 AI 学会遵循人类价值观"
-tags: [Reading]
+tags: [Reading, RL]
 comments: false
 ---
 

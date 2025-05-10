@@ -2,7 +2,7 @@
 layout: post
 title: "MaskLayer实例（刮奖demo）"
 subtitle: "iOS中CALayer的mask属性应用"
-tags: [iOS, CALayer, MaskLayer]
+tags: [iOS]
 comments: false
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Dynamic Binding"
 subtitle: "iOS动态绑定机制详解"
-tags: [iOS, Dynamic Binding, Runtime]
+tags: [iOS, Runtime]
 comments: false
 ---
 
