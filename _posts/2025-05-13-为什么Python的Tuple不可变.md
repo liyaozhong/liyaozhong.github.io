@@ -24,8 +24,8 @@ Python 的元组是一种不可变的数据结构，这意味着一旦创建，�
 **示例**：
 
 ```python
-my_dict = {(1, 2): "pair"}  *# 元组作为键# my_dict[[1, 2]] = "list"  # 列表不可作为键，会引发 TypeError*
-print(my_dict[(1, 2)])  *# 输出: pair*
+my_dict = {(1, 2): "pair"}  # 元组作为键# my_dict[[1, 2]] = "list"  # 列表不可作为键，会引发 TypeError
+print(my_dict[(1, 2)])  # 输出: pair
 ```
 
 不可变性保证了元组的哈希值在生命周期内始终一致，使其成为键值映射的理想选择。
@@ -41,13 +41,13 @@ print(my_dict[(1, 2)])  *# 输出: pair*
 
 ```python
 def process_coordinates(point):
-    x, y = point  *# 元组解包*
-    return (x + 1, y + 1)  *# 返回新元组，避免修改原始数据*
+    x, y = point  # 元组解包
+    return (x + 1, y + 1)  # 返回新元组，避免修改原始数据
 
 point = (10, 20)
 new_point = process_coordinates(point)
 print(f"Original point: {point}, New point: {new_point}")
-*# 输出: Original point: (10, 20), New point: (11, 21)*
+# 输出: Original point: (10, 20), New point: (11, 21)
 ```
 
 这种特性提高了代码的可预测性，尤其是在复杂系统中。
@@ -66,11 +66,11 @@ Python 的元组设计受到 Lisp 和 C 等语言的启发，旨在平衡函数�
 - **多重赋值与返回值**：
 
 ```python
-a, b = (10, 20)  *# 多重赋值*
+a, b = (10, 20)  # 多重赋值
 def get_coordinates():
-    return 10, 20  *# 隐式返回元组*
+    return 10, 20  # 隐式返回元组
 x, y = get_coordinates()
-print(f"x: {x}, y: {y}")  *# 输出: x: 10, y: 20*
+print(f"x: {x}, y: {y}")  # 输出: x: 10, y: 20
 ```
 
 - **字符串格式化**：
@@ -78,7 +78,7 @@ print(f"x: {x}, y: {y}")  *# 输出: x: 10, y: 20*
 ```python
 name = "Alice"
 age = 30
-print("Name: %s, Age: %d" % (name, age))  *# 元组传递参数# 输出: Name: Alice, Age: 30*
+print("Name: %s, Age: %d" % (name, age))  # 元组传递参数# 输出: Name: Alice, Age: 30
 ```
 
 - **并发编程**：元组的不可变性在多线程环境中确保数据安全。
@@ -106,8 +106,8 @@ for t in threads:
 list1 = [1, 2]
 list2 = [3, 4]
 immutable_references_tuple = (list1, list2)
-immutable_references_tuple[0].append(7)  *# 合法*
-print(immutable_references_tuple)  *# 输出: ([1, 2, 7], [3, 4])*
+immutable_references_tuple[0].append(7)  # 合法
+print(immutable_references_tuple)  # 输出: ([1, 2, 7], [3, 4])
 ```
 
 可以将元组类比为一个写有固定地址的便签：便签上的地址不可更改（引用不可变），但地址指向的房子可以装修（可变对象内容可变）。这一特性常被误解为元组完全不可变，需特别注意。
@@ -117,10 +117,10 @@ print(immutable_references_tuple)  *# 输出: ([1, 2, 7], [3, 4])*
 单元素元组的语法容易引发误解：
 
 ```python
-not_a_tuple = (1)    *# 实际上是整数 1*
-a_tuple = (1,)       *# 正确的单元素元组*
-print(type(not_a_tuple))  *# 输出: <class 'int'>*
-print(type(a_tuple))      *# 输出: <class 'tuple'>*
+not_a_tuple = (1)    # 实际上是整数 1
+a_tuple = (1,)       # 正确的单元素元组
+print(type(not_a_tuple))  # 输出: <class 'int'>
+print(type(a_tuple))      # 输出: <class 'tuple'>
 ```
 
 建议在开发中明确使用逗号，避免此类问题。
@@ -132,12 +132,12 @@ print(type(a_tuple))      *# 输出: <class 'tuple'>*
 - **频繁追加元素**：列表的 append 方法比元组的 + 操作更高效。
 
 ```python
-*# 列表追加*
+# 列表追加
 my_list = []
 for i in range(1000):
     my_list.append(i)
 
-*# 元组追加（低效）*
+# 元组追加（低效）
 my_tuple = ()
 for i in range(1000):
     my_tuple += (i,)
