@@ -2,7 +2,7 @@
 layout: post
 title: "Multi-Agent Systems"
 subtitle: "到底要不要Multi-agent?"
-tags: [RAG, Vector Searh]
+tags: [Multi-Agent]
 comments: false
 ---
 
