@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Eval Stratey"
-subtitle: "如何最好AI评估？"
+subtitle: "如何做好AI评估？"
 tags: [MoE]
 comments: false
 ---
